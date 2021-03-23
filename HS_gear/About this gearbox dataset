@@ -1,0 +1,13 @@
+This dataset was obtained from 3 blades upwind V90 wind generator, which produces an output of 3MW.
+
+Sampling frequency: 97,656Hz
+
+Shaft frequency: 30Hz
+
+Fault mode: 6 normal, 11 fault
+
+Gear mesh frequency: 960Hz
+
+You can access this dataset via this link: https://www.kau-sdol.com/kaug
+The paper using this dataset is
+Saufi S R, Ahmad Z A B, Leong M S, et al. Gearbox fault diagnosis using a deep learning model with limited data sample[J]. IEEE Transactions on Industrial Informatics, 2020, 16(10): 6263-6271.
