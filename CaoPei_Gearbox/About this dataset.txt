@@ -1,0 +1,20 @@
+https://figshare.com/articles/dataset/Gear_Fault_Data/6127874/1
+
+
+
+
+Dataset posted on 11.04.2018, 23:06 by Pei Cao, Shengli Zhang, Jiong Tang
+Time domain gear fault vibration data (DataForClassification_TimeDomain)
+and
+Gear fault data after angle-frequency domain synchronous analysis (DataForClassification_Stage0)
+
+Number of gear fault types=9={'healthy','missing','crack','spall','chip5a','chip4a','chip3a','chip2a','chip1a'}
+Number of samples per type=104
+Number of total samples=9x104=903
+The data are collected in sequence, the first 104 samples are healthy, 105th ~208th samples are missing, and etc.
+
+
+
+The paper used this dataset:
+Cao P, Zhang S, Tang J. Preprocessing-free gear fault diagnosis using small datasets with deep convolutional neural network-based transfer learning[J]. Ieee Access, 2018, 6: 26241-26253.
+
