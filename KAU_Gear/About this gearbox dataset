@@ -1,0 +1,10 @@
+This dataset was obtained from the gearbox testbed made. The encoder signals are acquired from the testbed.
+
+Sampling frequency: 10kHz
+
+Fault mode: 10 normal, 10 spall, 11 crack
+
+
+You can access it via the link: https://www.kau-sdol.com/kaug
+
+Because I don't know which paper used it, so there is no details about the dataset
